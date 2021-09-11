@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BasicAppiumWhenDo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-11T12:39:43" hostname="DESKTOP-4KPB3LA" time="36.549">
+  <properties/>
+  <testcase name="verifyTodoApp()" classname="BasicAppiumWhenDo" time="36.549"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[sep 11, 2021 7:40:01 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
